@@ -1,7 +1,9 @@
 
 # [re:2026]sketch-module-web-view
 
-**FIX: Randomly appearing Sketch Plugin Window could not be closed.**
+
+> [!IMPORTANT]
+> **FIX: Randomly appearing Sketch Plugin Window could not be closed.**
 
 --------
 
