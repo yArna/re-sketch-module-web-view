@@ -1,4 +1,9 @@
-# sketch-module-web-view
+
+# [re:2026]sketch-module-web-view
+
+**FIX: Randomly appearing Sketch Plugin Window could not be closed.**
+
+--------
 
 A Sketch module for creating a complex UI with a webview. The API is mimicking the [BrowserWindow](https://electronjs.org/docs/api/browser-window) API of Electron.
 
